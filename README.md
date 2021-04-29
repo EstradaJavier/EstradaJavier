@@ -1,9 +1,10 @@
+![image](https://damajdesprodes509.files.wordpress.com/2013/03/triathlon-banner.gif?w=508&zoom=2)
 ### Hi there 👋
 
 <!--
 **EstradaJavier/EstradaJavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![image](https://damajdesprodes509.files.wordpress.com/2013/03/triathlon-banner.gif?w=508&zoom=2)
+
 
 
 - 🔭 I’m currently working on ...  
