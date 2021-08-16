@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on ...  Capstone Project
+- 🔭 I’m currently working on ...  Spring Framework Udemy Course
 - 🌱 I’m currently learning ... Node JS
 - 👯 I’m looking to collaborate on ... Any future coding projects 
 - 🤔 I’m looking for help with ...  
