@@ -10,11 +10,11 @@
 - 🔭 I’m currently working on ...  Spring Framework Udemy Course
 - 🌱 I’m currently learning ... Node JS
 - 👯 I’m looking to collaborate on ... Any future coding projects 
-- 🤔 I’m looking for help with ...  
-- 💬 Ask me about ... Project Management
-- 📫 How to reach me: ... estrada.javier.525@Gmail.COM
-- 😄 Pronouns: ... Dude!!!
-- ⚡ Fun fact: ... I love to play tennis and volleyball.
+- 🤔 I’m looking for help with securing a JOB!
+- 💬 Ask me about ... 
+- 📫 How to reach me: ... estrada.javier.525@Gmail.COM / 210-379-7563
+- 😄 Pronouns: ... Him, His
+- ⚡ Fun fact: ... I love to play tennis and sand volleyball.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estradajavier&theme=blue-green&show_icons=true)
